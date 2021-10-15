@@ -1,2 +1,2 @@
-# deep-learning-image-data
-Multiclass classification of image data using deep learning algorithms
+# Cloud system event log analytics
+Predictive classfication model of log data for trobuleshooting purposes
