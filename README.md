@@ -8,7 +8,7 @@ The aim is to develop machine learning model in classifying and predicting the e
 
 For full view please visit the PDFs - [SummerProject_LogAnalytics_report.pdf](https://github.com/rabbilbhuiyan/cloud-log-analytics-NLP/files/7696994/SummerProject_LogAnalytics_report.pdf) and [SummerProject_LogAnalytics_presentation.pdf](https://github.com/rabbilbhuiyan/cloud-log-analytics-NLP/files/7697001/SummerProject_LogAnalytics_presentation.pdf)
 
-To see Rabbil Bhuiyan's jupyter notebook work visit this link - 
+To see Rabbil Bhuiyan's jupyter notebook work visit this link - [Rabbil's Jupyter Notebook](https://github.com/rabbilbhuiyan/cloud-log-analytics-NLP/tree/main/log_error_classification/src/notebooks)
 
 ## Methods
 - The dataset contains 64,275,039 i.e more than 64 million lines of logs labeled as INFO, ERROR and WARNING
