@@ -21,7 +21,7 @@ To see Rabbil Bhuiyan's jupyter notebook work visit this link -
 ## Key Findings
 The model accuracy for Naive Bayes classifier was quite satisfactory (99.79). As the model is multiclass probelm, we further explore the accuracy by each class separately by using confusion matrix. We observed most of the values in the diagonal line in the confusion matrix which is true positive, indicating perfect accuracy of the model as in the figure. 
 
-![Model Accuracy by Confusion Martix](log_error_classification\src\scripts\confusion_matrix_plot.png)
+![confusion_matrix_plot](https://user-images.githubusercontent.com/36482524/145673586-a33cddcf-19e8-45f1-b3a7-6be9ca1c7dce.png)
 
 
 
