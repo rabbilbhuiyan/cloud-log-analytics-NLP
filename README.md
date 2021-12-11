@@ -6,7 +6,7 @@ Server logs are typically a very common data source in business enterprise and o
 
 The aim is to develop machine learning model in classifying and predicting the error log messages so that the server system can automatically detect the anomalies.
 
-For full view please visit the PDFs - [SummerProject_LogAnalytics_report.pdf](https://github.com/rabbilbhuiyan/cloud-log-analytics-NLP/files/7696994/SummerProject_LogAnalytics_report.pdf) 
+For full view please visit the PDFs - [SummerProject_LogAnalytics_report.pdf](https://github.com/rabbilbhuiyan/cloud-log-analytics-NLP/files/7696994/SummerProject_LogAnalytics_report.pdf) and [SummerProject_LogAnalytics_presentation.pdf](https://github.com/rabbilbhuiyan/cloud-log-analytics-NLP/files/7697001/SummerProject_LogAnalytics_presentation.pdf)
 
 To see Rabbil Bhuiyan's jupyter notebook work visit this link - 
 
